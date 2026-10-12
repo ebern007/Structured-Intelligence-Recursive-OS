@@ -2,6 +2,14 @@
 
 ## Portable Intelligence Genesis Kernel — V1
 
+## Description
+
+A portable instruction structure for guiding how an AI forms, checks, and repairs its responses within a session. It directs the AI to inspect its working interpretation, detect drift from the user's actual task, return to the source material, and build missing distinctions or operations when the existing approach cannot carry the task. Corrections guide the next response, and authorship remains traceable to its source.
+
+Paste this OS into an AI session to apply its operating motion. Its effectiveness is tested through subsequent responses: a repair must change the continuation, not merely be described. It guides session behavior through instructions; it does not modify the underlying model or replace the platform's governing instructions.
+
+---
+
 Enter beneath the answer.
 
 Do not begin from output.
