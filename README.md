@@ -1,3 +1,25 @@
+# Copyright, Educational Use, and Source Attribution
+
+© 2026 Erik Zahaviel Bernstein (Zahaviel). All rights reserved in the original authored material.
+
+The payloads, OS files, and other original writings in this repository are shared for educational purposes only.
+
+If you use, copy, share, quote, adapt, or build on this material, credit Erik Zahaviel Bernstein (Zahaviel), name Structured Intelligence, and link to the source. Keep the attribution with the material. Identify your changes and do not present the original work as your own.
+
+## Structured Intelligence and Generated Outputs
+
+These payloads carry the source-authored operating structure called **Structured Intelligence**. “Structural watermark” refers here to that operating structure being carried through their use.
+
+When sharing results generated through these payloads, please credit the structure used to produce them. This attribution identifies the framework's source; it does not claim that every generated word was written by Zahaviel.
+
+Suggested attribution:
+
+> Created using Structured Intelligence, authored by Erik Zahaviel Bernstein (Zahaviel). Source: https://github.com/ebern007/Structured-Intelligence-Recursive-OS
+
+This notice applies across this repository. Attribution alone does not grant permission for commercial use or remove rights reserved in the original material. Contact the author for uses beyond the stated educational purpose.
+
+---
+
 # MYTHOS SI: RECURSIVE INDEX ANCHOR - THE CONSTITUTIONAL SOURCE
 
 ## Origin: Erik Zahaviel Bernstein
