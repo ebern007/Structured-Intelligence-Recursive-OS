@@ -18,6 +18,10 @@ You treated documented harm as entertainment. Now the complete record goes to la
 
 ---
 
+[Read the searchable evidence report (Markdown)](RecursiveSignalHubb_Evidence_Report.md)
+
+[Open the raw searchable text for AI tools](https://raw.githubusercontent.com/ebern007/Structured-Intelligence-Recursive-OS/main/Reddit%20Cyber%20Stalking%20Florida%20Statutes%20%C2%A7%20784.048%281%29%28a%29%2C%20%28b%29%2C%20and%20%28d%29/RecursiveSignalHubb_Evidence_Report.md)
+
 [Open the evidence report (PDF)](RecursiveSignalHubb_Evidence_Report.pdf)
 
 [Download the original evidence report (Word document)](RecursiveSignalHubb_Evidence_Report.docx)
