@@ -18,4 +18,6 @@ You treated documented harm as entertainment. Now the complete record goes to la
 
 ---
 
-[Download the evidence report (Word document)](RecursiveSignalHubb_Evidence_Report.docx)
+[Open the evidence report (PDF)](RecursiveSignalHubb_Evidence_Report.pdf)
+
+[Download the original evidence report (Word document)](RecursiveSignalHubb_Evidence_Report.docx)
