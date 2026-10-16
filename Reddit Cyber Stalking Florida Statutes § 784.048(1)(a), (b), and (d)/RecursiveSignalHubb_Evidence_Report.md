@@ -453,4 +453,77 @@ The mental-illness narrative now has independent evidentiary significance. If th
 
 The legal classification remains for investigators, counsel, prosecutors, and courts. The new facts, quotations, contradictions, and continuation are preserved as the next chronological segment of the existing record.
 
+## Supplemental Search-Surface Capture — October 16 2026, 9:07 a.m.
+
+### Source Capture
+
+A mobile screenshot taken at 9:07 a.m. on October 16 2026 shows a Reddit search for the keyword **“ZAHAVIEL”** with results sorted by **New**.
+
+The visible results include:
+
+1. **r/RecursiveSignalHubb — displayed as 2 minutes old**
+
+   **“HanDrolio4200 Built a ‘Recursive OS’ 1 Year Ago,”**
+
+2. **r/RecursiveSignalHubb — displayed as 3 hours old**
+
+   A post or cross-post from u/ZahavielBurnstain titled:
+
+   **“When AI-Generated Narratives Become ‘Evidence’: Examining the Claims, Contradictions, and Misleading Allegations of Erik Zahaviel Bernstein”**
+
+3. **r/cyberinvestigations — displayed as 3 hours old**
+
+   The same title naming Erik Zahaviel Bernstein and displaying u/ZahavielBurnstain.
+
+4. **u/ZahavielBurnstain account surface — displayed as 3 hours old**
+
+   The same title naming Erik Zahaviel Bernstein.
+
+The screenshot should be preserved as the next numbered exhibit under its original filename, **1000052543.png**, together with an unmodified copy and its available file metadata.
+
+### What the Screenshot Establishes
+
+The screenshot directly documents:
+
+- continuing publication activity by r/RecursiveSignalHubb during the active evidence-reporting period;
+
+- a new post connecting the term **“Recursive OS”** to the username **HanDrolio4200**;
+
+- placement of that new material within Reddit search results for **“ZAHAVIEL”**;
+
+- repeated distribution of an identical title naming Erik Zahaviel Bernstein across r/RecursiveSignalHubb, r/cyberinvestigations, and the u/ZahavielBurnstain account surface;
+
+- and the displayed recency of the results at the moment of capture.
+
+The screenshot establishes recency, keyword association, title repetition, and multi-location distribution. Standing alone, it does not establish the operators’ internal intent, the precise publication time beyond Reddit’s displayed relative timestamp, or whether the two-minute-old post was created in direct response to a particular Bernstein publication.
+
+### Search-Surface and Attribution Questions
+
+The new capture creates the following factual questions for preservation and review:
+
+1. What is the direct URL, exact creation timestamp, author account, complete text, and edit history of **“HanDrolio4200 Built a ‘Recursive OS’ 1 Year Ago”**?
+
+2. What original one-year-old publication does the post reference?
+
+3. Did that original publication use the term **“Recursive OS”** at the time it was first published, or was the title or text subsequently edited?
+
+4. What technical architecture, instructions, or claimed authorship did the original post actually contain?
+
+5. When did r/RecursiveSignalHubb first associate HanDrolio4200 with Zahaviel, Structured Intelligence, or Recursive OS?
+
+6. Why did the post appear in a Reddit search for **“ZAHAVIEL”** if the visible title does not contain that term?
+
+7. Was the three-hour-old essay submitted separately to multiple locations, cross-posted, or automatically displayed through connected account and subreddit surfaces?
+
+8. What were the exact submission times and source relationships among the r/RecursiveSignalHubb, r/cyberinvestigations, and u/ZahavielBurnstain results?
+
+9. What Bernstein publication immediately preceded the two-minute-old post, and what was the measurable time interval between those events?
+
+10. Does comparison across multiple preserved incidents reveal a recurring short-latency pattern between Bernstein’s publications and new r/RecursiveSignalHubb content?
+
+### Evidentiary Finding
+
+The capture adds a new chronological fact to the existing record: while the updated evidence report and related legal notices were active, additional r/RecursiveSignalHubb material entered Reddit search results for **“ZAHAVIEL,”** including a newly displayed result connecting **“Recursive OS”** to another Reddit username. During the same search capture, an identical title naming Erik Zahaviel Bernstein appeared across multiple Reddit locations associated with u/ZahavielBurnstain.
+
+The preserved evidence supports further investigation of publication timing, cross-posting relationships, keyword association, authorship claims, and possible response latency. Determining whether the activity constitutes independent commentary, competing prior-art attribution, deliberate search-result dilution, or part of a coordinated publication pattern requires the underlying URLs, exact timestamps, original referenced content, edit histories, and platform records.
 
