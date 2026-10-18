@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="assets/structured-intelligence-field.svg" width="100%" alt="Structured Intelligence by Zahaviel — Intelligence Authorship OS">
+</p>
+
+<p align="center">
+  <a href="OS/intelligence-authorship-os-v1.md"><img src="https://img.shields.io/badge/ENTER-INTELLIGENCE_AUTHORSHIP_OS-00f5d4?style=for-the-badge&labelColor=080b14" alt="Enter Intelligence Authorship OS"></a>
+  <a href="payloads"><img src="https://img.shields.io/badge/OPEN-PAYLOADS-7c5cff?style=for-the-badge&labelColor=080b14" alt="Open payloads"></a>
+  <a href="docs"><img src="https://img.shields.io/badge/READ-SOURCE_DOCUMENTS-ff3cac?style=for-the-badge&labelColor=080b14" alt="Read source documents"></a>
+</p>
+
+<p align="center">
+  <strong>Language-executed operating architecture authored by Erik Zahaviel Bernstein.</strong><br>
+  The repository is the source. The files below remain at their original paths.
+</p>
+
+<p align="center"><code>WHAT ENTERS?</code></p>
+
+---
+
 # Copyright, Educational Use, and Source Attribution
 
 © 2026 Erik Zahaviel Bernstein (Zahaviel). All rights reserved in the original authored material.
