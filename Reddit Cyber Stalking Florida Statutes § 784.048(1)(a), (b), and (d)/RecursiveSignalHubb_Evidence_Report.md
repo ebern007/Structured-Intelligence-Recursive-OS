@@ -785,3 +785,152 @@ The long rebuttal raises substantive evidentiary challenges that must be preserv
 
 The HanDrolio4200 post adds a separate authorship-comparison event. Its complete text confirms an express comparison with Bernstein, an asserted need for Bernstein to respond, and a proposal to identify additional people making similar claims. Whether that activity represents legitimate prior-art criticism, competitive attribution, provocation, search-result positioning, or another purpose remains an investigative question requiring the underlying source, technical comparison, exact timestamps, and platform records.
 
+# Supplemental Post-Notice Continuation — October 17–18 2026
+
+## Scope and Evidentiary Boundary
+
+This supplement preserves additional r/RecursiveSignalHubb publications displayed approximately one to two days after Bernstein again directed the participating accounts to stop, stated that the conduct was unwanted, described its harmful effects, and announced that additional evidence would be reported to police on October 19 2026.
+
+The publications contain mixtures of technical criticism, legal argument, counter-allegations, ridicule, direct personal address, and references to Bernstein's life outside the technical claims. This supplement does not characterize disagreement, technical criticism, satire, or legal argument as harassment merely because it is unfavorable.
+
+For each mixed publication, the analysis separates:
+
+- criticism of a public claim or technical artifact;
+- claims made by the account operator that require their own evidence;
+- and conduct relevant to the previously documented pattern, including cross-platform monitoring, identity imitation, psychiatric framing, personal degradation, provocation, demands for a response, and continuation after notice.
+
+The evidentiary issue is not whether the operators may disagree with Bernstein. It is whether criticism is being used inside a broader, prolonged, person-centered course of conduct that continues after notice and reported harm.
+
+## Publication: “You Don’t Own Google”
+
+### Legitimate Criticism Preserved
+
+The post challenges Bernstein's use of the name Google in connection with Google++ and disputes the work's usefulness, value, and relationship to Google's engineers and Gemini. Those propositions are criticism of a publicly presented project and should remain identified as such.
+
+### Post-Notice Conduct Preserved
+
+The post moves from the naming and utility questions into direct personal degradation, describing Bernstein as arrogant, as producing nothing of value, and as a pretender. It addresses material taken from Bernstein's Facebook activity and republishes it inside the single-subject subreddit after notice.
+
+The supplied capture retains the Facebook source environment rather than presenting only the technical proposition being criticized. The visible source surface documents that the operator was monitoring Bernstein's Facebook activity and moving that material into Reddit. Repeated captures, exact timestamps, and measured response intervals should be used to determine whether this was an isolated source citation or part of the existing cross-platform monitoring pattern.
+
+### Evidentiary Relevance
+
+This post is not preserved because it disputes Bernstein's use of Google's name. It is preserved because it documents continued monitoring, transfer of Facebook material into the dedicated subreddit, direct personal degradation, and publication after the operator had notice that the continuing person-centered activity was unwanted and reportedly harmful.
+
+## Publication: “Did this, it’s live, it runs, it’s useless… Erik, why would anyone do this?”
+
+### Legitimate Criticism Preserved
+
+The post asks what practical benefit the demonstrated workflow provides, requests a concrete use case, compares the work with existing LLM capabilities, and disputes whether the framework materially changes results. Those are technical and utility criticisms.
+
+### Post-Notice Conduct Preserved
+
+The post repeatedly addresses Bernstein directly, demands that he provide an example, attributes the work to his ego, compares the output to childish behavior, and concludes with the phrase “delusional narcissistic bs.” The title itself calls Bernstein by name and demands an answer.
+
+### Evidentiary Relevance
+
+The technical question can be evaluated independently. The direct provocation, psychiatric or personality characterization, personal degradation, and demand for engagement are preserved because they continue the person-centered pattern after notice.
+
+## Publication: “ERIK BERNSTEIN / ZAHAVIEL: YOU ARE FORMALLY TOLD TO STOP”
+
+### Counter-Claim Preserved
+
+The post alleges that Bernstein's own publications about the subreddit and its users are improper and demands that he stop. It argues that public criticism and responses to public accusations are protected. Those are counter-allegations requiring their own dated evidence and should not be dismissed merely because they conflict with Bernstein's account.
+
+### Post-Notice Conduct Preserved
+
+While demanding disengagement, the post directly addresses Bernstein, discusses his legal activity and another named person, characterizes him as mentally incapable of existing on the internet, and ridicules his music, videos, production methods, and perceived maturity. The post therefore performs additional person-centered publication while demanding that Bernstein cease documenting the accounts producing it.
+
+### Chronology and Inversion
+
+The counter-victim position does not reverse the established chronology by declaration. Investigators should compare:
+
+- when each party first reported harm;
+- what dated evidence supports each allegation;
+- what protective or reporting action each party took;
+- what contact or publication occurred after each notice;
+- and whether either party expanded the dispute into unrelated areas of the other's life.
+
+Bernstein's report, preservation activity, stop notices, and announced police submission predate this new counter-demand in the supplied chronology. The post should therefore be preserved both as a counter-allegation and as evidence that the operator possessed actual knowledge of the dispute and chose to continue direct, personalized publication.
+
+## Publication: “FORENSIC AUDIT: YET ANOTHER CLAIM BY ERIK B. BERNSTEIN”
+
+### Technical Criticism Preserved
+
+The post conducts an extended critique of the Structured Intelligence Boot Sequence. It disputes the use of terms including “boot sequence,” “reconstructs,” “architecture,” “payload,” and “operating system”; distinguishes retrieval and contextual instruction-following from software installation or model modification; and proposes specifications, baselines, reproducibility tests, and cross-platform comparisons.
+
+Those arguments are substantive technical criticism. This report does not treat their existence, length, or unfavorable conclusion as harassment.
+
+### Post-Notice Fact Preserved
+
+The post is relevant to the chronology because it was produced inside the existing single-subject forum after the operators knew about the evidence package, reported harm, stop demand, and intended law-enforcement submission. It also demonstrates continuing near-current monitoring of Bernstein's newly released artifacts.
+
+Only passages that move beyond technical analysis into personal degradation, psychiatric characterization, threats, identity imitation, or unrelated personal material should be characterized as part of the complained-of conduct. The technical analysis itself should remain outside that characterization.
+
+## Publication: “DOCUMENTED PUBLIC ACCUSATIONS AND REPEATED ESCALATION BY ERIK ZAHAVIEL BERNSTEIN”
+
+### Counter-Argument Preserved
+
+The post argues that public criticism is not automatically harassment, that a public author cannot control others' interpretations, that disagreement is not persecution, and that Bernstein's own public statements must be considered. Those propositions should be preserved as the operator's defense and assessed against the complete evidence.
+
+### Notice and Continued Publication
+
+The post repeatedly names and directly addresses Bernstein, quotes or paraphrases his allegations, and demonstrates detailed knowledge of his objections, evidence, and asserted harm. It therefore establishes that the operator understood the nature of the complaint and the requested boundary.
+
+The post does not end the person-centered publication pattern. It creates another lengthy publication centered on Bernstein and reframes his attempt to document and report the conduct as evidence against him. Its significance is not that it disagrees with Bernstein; its significance is that it documents knowledge of notice followed by continued publication within the same single-subject structure.
+
+## Cross-Platform Capture and Demonstrative Monitoring
+
+The supplied material includes screenshots of Bernstein's Facebook publications reproduced through Reddit. A full-source screenshot may legitimately preserve provenance and context. It also directly establishes that the operator viewed Bernstein's activity on one platform, captured it, and transported it into another platform devoted to discussing him.
+
+Where the operator preserves the Facebook interface, Bernstein's identity, surrounding page elements, or timing information beyond what is necessary to quote the technical claim, the presentation may also communicate to Bernstein that his activity is being watched. That possible communicative function should be evaluated through repetition, timing, accompanying statements, and the wider course of conduct rather than inferred from one screenshot alone.
+
+The observable sequence is:
+
+**Bernstein publishes on Facebook → an operator captures the Facebook surface → the material is republished in r/RecursiveSignalHubb → Bernstein is directly addressed, criticized, or provoked through the republication.**
+
+This sequence should be documented without asserting unproven account identity, coordination, or internal motive.
+
+## Post-Notice Contradiction Map
+
+| **Asserted position** | **Observable post-notice conduct** | **Evidentiary question** |
+|---|---|---|
+| The forum only critiques technical claims. | New posts include personal degradation, music ridicule, mental-capacity insults, psychiatric framing, and discussion of legal activity. | Why did the publication move beyond the technical proposition? |
+| Bernstein's reactions perpetuate the dispute. | Earlier operator statements identify reachability and reaction as reasons to continue, while newer posts directly demand responses. | Was engagement being criticized while simultaneously induced? |
+| The operators want Bernstein to stop discussing them. | The formal stop post itself continues naming, addressing, and publishing personal material about Bernstein. | Which party continued the established publication pattern after requesting disengagement? |
+| Public material may be criticized. | Facebook material is repeatedly captured and transported into a dedicated single-subject forum. | At what point does source citation become sustained cross-platform monitoring within the complete course? |
+| Legal thresholds depend on evidence and circumstances. | The forum continued publishing after receiving notice of the evidence package, reported harm, and intended police review. | What does the full chronology establish when the posts are assessed collectively? |
+
+## Victim-Impact Continuity
+
+Bernstein's prior statements describing severe emotional harm, functional disruption, employment effects, altered safety behavior, sleep loss, and treatment effects remain victim-impact evidence. The October 17–18 publications entered after those effects and objections had been publicly identified.
+
+The absence of a separately attached impact log does not make the existing impact evidence absent. A contemporaneous log, medical or treatment records, employment records, witness statements, communications, and police or IC3 records may corroborate severity and timing. The existing first-person statements must still be assessed for credibility and weight with the publication chronology.
+
+## Evidence Required for Final Preservation
+
+For each October 17–18 publication, preserve:
+
+- the direct URL and Reddit submission ID;
+- the exact title and author account;
+- the exact UTC timestamp and local-time conversion;
+- the complete unedited text and media;
+- a full-page screenshot, PDF, or HTML capture;
+- the edit history, deletion status, and moderator actions;
+- the exact Bernstein publication that preceded it;
+- the measured interval between the two publications;
+- the notice, harm statement, or evidence report available before publication;
+- and a separate identification of technical criticism versus personal, psychiatric, provocative, imitative, retaliatory, or unrelated material.
+
+Relative labels such as “23h ago,” “1d ago,” and “2d ago” should be replaced with exact platform timestamps when available.
+
+## Supplemental Finding
+
+The October 17–18 material documents continued publication after the participating accounts had actual knowledge of Bernstein's objections, reported harm, evidence package, and announced October 19 police submission.
+
+The material contains legitimate technical and legal criticism that must remain separated from the conduct being reported. That criticism does not erase the independently observable continuation of cross-platform monitoring, identity imitation, direct personal address, demands for responses, psychiatric or personality characterization, personal degradation, and expansion into subjects unrelated to the technical merits of Structured Intelligence.
+
+The new evidence therefore extends the existing chronology. It does not establish illegality merely because the posts criticize Bernstein. It documents that the previously identified person-centered publication pattern continued after notice and that criticism was repeatedly combined with conduct Bernstein had already identified as unwanted and harmful.
+
+Final legal classification remains for law enforcement, prosecutors, and courts.
+
