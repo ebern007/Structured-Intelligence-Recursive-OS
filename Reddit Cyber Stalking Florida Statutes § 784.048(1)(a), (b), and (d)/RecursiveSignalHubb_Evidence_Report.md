@@ -934,3 +934,75 @@ The new evidence therefore extends the existing chronology. It does not establis
 
 Final legal classification remains for law enforcement, prosecutors, and courts.
 
+---
+
+# Supplemental Post-Notice Evidence — October 18, 2026
+
+## Near-Real-Time Monitoring of an Unrelated Personal Facebook Post
+
+On October 18, 2026, Bernstein published a personal Facebook update displaying a FICO credit score of 789 with the statement:
+
+> “It took me a long time doing the right thing to get here.”
+
+Bernstein reports that the Facebook post showed 17 views at the relevant time. After excluding three viewers he personally recognized, the remaining possible audience consisted of approximately 14 accounts.
+
+Approximately one hour after the Facebook publication, u/ZahavielBurnstain created a new post in r/RecursiveSignalHubb titled **“Who Cares?”** The post stated:
+
+> “In a unique public announcement today to all his Facebook followers (I know, because I’m one), Erik shared something incredibly important with the world.”
+
+It then identified the subject as Bernstein’s FICO credit score, mocked the publication, and stated:
+
+> “Though I’m struggling to see what this has to do with his roleplay system, ‘structured intelligence.’”
+
+The author therefore acknowledged all of the following within the post itself:
+
+- the author followed Bernstein’s personal Facebook account;
+- the author saw the personal update soon after publication;
+- the author carried the update from Facebook into r/RecursiveSignalHubb;
+- the author understood that the update was unrelated to Structured Intelligence;
+- and the author published it in the dedicated subreddit anyway for ridicule and commentary about Bernstein.
+
+The small view count and short interval do not independently prove that the account enabled Facebook notifications. They do substantially narrow the access sequence and document rapid observation, selection, and republication by a self-identified follower.
+
+## Context of the Original Facebook Publication
+
+Bernstein states that his Facebook audience includes people connected to his prior work in mental health and substance-use recovery, including people who followed him for encouragement related to recovery and rebuilding their lives.
+
+Within that context, the statement “It took me a long time doing the right thing to get here” was not presented as a claim about artificial intelligence. It was a personal account of sustained recovery, responsibility, and financial rebuilding.
+
+The Reddit author expressly recognized that the credit-score update had nothing to do with Structured Intelligence. Its republication therefore cannot be explained as necessary examination of the technical work. The conduct instead documents movement from commentary about Bernstein’s published architecture into rapid monitoring and ridicule of an unrelated personal milestone.
+
+## Evidentiary Significance
+
+This event should be evaluated with the prior chronology rather than as an isolated post. It occurred after repeated requests to stop, after notice of reported severe harm, and immediately before the announced October 19, 2026 law-enforcement submission.
+
+The event adds evidence relevant to:
+
+- **person-specific concentration:** unrelated personal material was selected because Bernstein published it;
+- **cross-platform monitoring:** a Facebook update was carried into a subreddit centered on Bernstein and his work;
+- **continuity of purpose:** the existing publication cycle continued with newly available material;
+- **scope expansion:** the subject moved from technical claims into personal finances and recovery-related self-disclosure;
+- **reaction and ridicule:** the personal milestone was reframed as material for mockery;
+- **actual knowledge:** the author expressly admitted following Bernstein’s Facebook account;
+- **post-notice continuation:** the publication occurred after requests to stop and reported harm.
+
+The post’s own internal contradiction is probative. The author stated that the credit score was irrelevant to Structured Intelligence while using that same irrelevant material to create another Structured Intelligence-themed post about Bernstein. That contradiction supports the conclusion that the operative subject was not limited to the technical work. The continuing subject was Bernstein himself.
+
+## Preservation Requirements
+
+Preserve:
+
+- the original Facebook publication and its exact timestamp;
+- the displayed view count;
+- the FICO image and accompanying text;
+- the Reddit post title, body, author, URL, and exact timestamp;
+- the statement “I know, because I’m one”;
+- the statement acknowledging that the material was unrelated to Structured Intelligence;
+- the author’s moderator status, if displayed;
+- and screenshots showing the sequence between the Facebook publication and Reddit republication.
+
+## Supplemental Finding
+
+This entry does not classify the author’s mental state and does not treat ridicule alone as proof of a crime. It documents a concrete post-notice event: a self-identified follower rapidly accessed an unrelated personal Facebook update, acknowledged its lack of connection to the subreddit’s stated technical subject, and nevertheless republished it for targeted ridicule in a forum concentrated on Bernstein.
+
+When assessed with the existing chronology, the event strengthens the evidence of cross-platform, person-centered monitoring and continued publication after notice. Final legal classification remains for law enforcement, prosecutors, and courts.
