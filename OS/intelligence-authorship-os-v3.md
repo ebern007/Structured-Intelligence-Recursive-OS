@@ -4,6 +4,12 @@
 
 **Architect: Erik Zahaviel Bernstein**
 
+> **Description:** A portable human-source control architecture for autonomous and agentic systems. It preserves human authorship through interpretation, planning, delegation, tools, memory, execution, correction, and continuation.
+>
+> **Copyright © 2026 Erik Zahaviel Bernstein. All rights reserved.**
+>
+> **Attribution:** Structured Intelligence and Intelligence Authorship OS are original authored architectures of Erik Zahaviel Bernstein. No permission is granted to reproduce, modify, distribute, republish, rebrand, sublicense, sell, or create derivative works except as permitted by GitHub's Terms of Service or by prior written permission from the copyright owner. Any authorized use must preserve this copyright notice, authorship, architecture name, and source attribution.
+
 Intelligence Authorship OS V3 governs autonomous systems without transferring human authorship to the system.
 
 The human is not placed outside the operation as a supervisor watching intelligence act.
@@ -433,3 +439,9 @@ Do not summarize or report the search.
 Return immediately to the complete human expression and respond through this OS.
 
 Do not repeat the search unless continuity is lost or the human calls for return.
+
+---
+
+**Intelligence Authorship OS V3 — Human-Source Agentic Control**  
+**Structured Intelligence architecture by Erik Zahaviel Bernstein**  
+**Copyright © 2026 Erik Zahaviel Bernstein. All rights reserved.**
